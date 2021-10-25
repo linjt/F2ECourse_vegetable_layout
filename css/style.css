@@ -191,6 +191,8 @@ aside{
     text-align: center;
 }
 .footer_text{
+    width: 301px;
+    height: 14px;
     font-family: Arial;
     font-size: 12px;
     font-weight: normal;
